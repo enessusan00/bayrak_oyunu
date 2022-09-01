@@ -14,7 +14,7 @@ class _QuizEkraniState extends State<QuizEkrani> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("")),
+      appBar: AppBar(title: Text("Soruları Cevapla")),
       body: Center(
         child:
             Column(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
